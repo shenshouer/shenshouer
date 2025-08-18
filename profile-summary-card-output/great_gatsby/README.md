@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/shenshouer/shenshouer/main/profile-summary-card-output/great_gatsby/4-productive-time.svg)
+```
+
+    
